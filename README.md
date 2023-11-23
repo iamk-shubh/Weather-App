@@ -35,6 +35,4 @@ No special setup is required to run the app. Simply open the `index.html` file i
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-
 **Note:** Remember to keep your API keys private. Do not share them in your public repository.
